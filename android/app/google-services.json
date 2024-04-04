@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "280208526296",
+    "project_id": "lab8cro102",
+    "storage_bucket": "lab8cro102.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280208526296:android:b864bc20c97e891b70c0ad",
+        "android_client_info": {
+          "package_name": "com.slide_8"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBr5eSHqlpttWNrAXK8M83UZ_Q7oGHupHg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
